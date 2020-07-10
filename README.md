@@ -58,7 +58,7 @@ Ele ajuda a organizar suas tarefas, possibilita adicionar ou remover tarefas e a
 
 ![lista_tarefas_final](https://user-images.githubusercontent.com/45312912/87121759-e9496280-c259-11ea-8a67-4c20605e38d1.png)
 
-## Como ajudar e rodar os apps:
+## 🤔 Como ajudar e rodar os apps?
 
 Para clonar e rodar os aplicativos, você vai precisar do Git e do Flutter instalados no seu computador.
 ```
@@ -73,6 +73,8 @@ $ flutter packages get
 
 # Rode o app
 $ flutter run
+
+Clonar o repositório é opcional, não impede de rodar o aplicativo.
 ```
 
 ## Agradecimentos
