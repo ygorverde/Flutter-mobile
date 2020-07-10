@@ -45,23 +45,11 @@ class CustomDrawer extends StatelessWidget {
                         left: 8.0,
                         child: Padding(
                           padding: EdgeInsets.only(left: 55),
-                          child: ScopedModelDescendant<UserModel>(
-                            builder: (context, child, model){
-                              return Column(
-                                children: <Widget>[
-                                  CircleAvatar(
-                                    maxRadius: 40.0,
-                                    backgroundImage: NetworkImage(model.firebaseUser.toString()),
-                                  ),
-                                ],
-                              );
-                            },
-                          ),
-                         /* child: CircleAvatar(
+                          child: CircleAvatar(
                             maxRadius: 40,
                             backgroundImage: NetworkImage(
-                                "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-9sjCSSxT3SMUUuCiQOA4A9Zi1UqIw2oQh4Cz_0VwW90yuDlU"),
-                          ),*/
+                                "https://user-images.githubusercontent.com/45312912/87096063-65bb5180-c218-11ea-9af2-8ce53d03c611.jpg"),
+                          ),
                         ) 
                         ),
                     Positioned(

@@ -42,7 +42,7 @@ class _ContactPageState extends State<ContactPage> {
       onWillPop: _requestPop,
       child: Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.red,
+        backgroundColor: Colors.blueAccent,
         title: Text(_editedContact.name ?? "Adicionar contato"),
         centerTitle: true,
       ),
