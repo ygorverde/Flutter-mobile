@@ -78,4 +78,4 @@ Clonar o repositório é opcional, não impede de rodar o aplicativo.
 ```
 
 ## Agradecimentos
-  - <a target="_blank" href="https://www.udemy.com/course/curso-completo-flutter-app-android-ios/">Daniel Ciolfi</a>
+  - <a target="_blank" href="https://www.udemy.com/user/daniel-henrique-ciolfi/">Daniel Ciolfi</a>
