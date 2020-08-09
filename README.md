@@ -8,6 +8,10 @@ Aplicativos desenvolvidos utilizando o framework Flutter do Google para o desenv
     <img alt="Flutter" title="Flutter" src="https://venturebeat.com/wp-content/uploads/2018/02/google-flutter-logo.png?fit=400%2C200&strip=all" width="220px" />
 </p>
 
+
+![GitHub top language](https://img.shields.io/github/languages/count/ygorverde/Flutter-mobile) 
+![GitHub top language](https://img.shields.io/github/languages/top/ygorverde/Flutter-mobile) ![GitHub last commit](https://img.shields.io/github/last-commit/ygorverde/Flutter-mobile) ![GitHub repo size](https://img.shields.io/github/repo-size/ygorverde/Flutter-mobile)
+
 <h2 align="center">Aplicativos desenvolvidos</h2>
 
 ### Agenda de Contatos
