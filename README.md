@@ -2,7 +2,7 @@
 Flutter Mobile
 </h1>
 
-Aplicativos utilizando o framework Flutter do Google para o desenvolvimento de aplicativos mobile nativos multiplataforma (IOS e Android). <br> 
+Aplicativos desenvolvidos utilizando o framework Flutter do Google para o desenvolvimento de aplicativos mobile nativos multiplataforma (IOS e Android). <br> 
 :zap: [Saiba mais sobre o Flutter](https://www.devmedia.com.br/guia/flutter/40713)
 <p align="center">
     <img alt="Flutter" title="Flutter" src="https://venturebeat.com/wp-content/uploads/2018/02/google-flutter-logo.png?fit=400%2C200&strip=all" width="220px" />
